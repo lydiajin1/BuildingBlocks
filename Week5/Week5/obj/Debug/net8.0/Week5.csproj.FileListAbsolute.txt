@@ -1,0 +1,14 @@
+Z:\IGMProfile\Desktop\Week5\Week5\bin\Debug\net8.0\Week5.exe
+Z:\IGMProfile\Desktop\Week5\Week5\bin\Debug\net8.0\Week5.deps.json
+Z:\IGMProfile\Desktop\Week5\Week5\bin\Debug\net8.0\Week5.runtimeconfig.json
+Z:\IGMProfile\Desktop\Week5\Week5\bin\Debug\net8.0\Week5.dll
+Z:\IGMProfile\Desktop\Week5\Week5\bin\Debug\net8.0\Week5.pdb
+Z:\IGMProfile\Desktop\Week5\Week5\obj\Debug\net8.0\Week5.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Desktop\Week5\Week5\obj\Debug\net8.0\Week5.AssemblyInfoInputs.cache
+Z:\IGMProfile\Desktop\Week5\Week5\obj\Debug\net8.0\Week5.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\Week5\Week5\obj\Debug\net8.0\Week5.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\Week5\Week5\obj\Debug\net8.0\Week5.dll
+Z:\IGMProfile\Desktop\Week5\Week5\obj\Debug\net8.0\refint\Week5.dll
+Z:\IGMProfile\Desktop\Week5\Week5\obj\Debug\net8.0\Week5.pdb
+Z:\IGMProfile\Desktop\Week5\Week5\obj\Debug\net8.0\Week5.genruntimeconfig.cache
+Z:\IGMProfile\Desktop\Week5\Week5\obj\Debug\net8.0\ref\Week5.dll
